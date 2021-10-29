@@ -1,2 +1,3 @@
 # Grant-Multiple-Permissions-Example
+
 A Kotlin Example showing how to grant multiple device permissions at once...
